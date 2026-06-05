@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "avrento.twa",
+    "sha256_cert_fingerprints": ["1F:E3:80:4C:01:12:98:B8:F3:B5:4D:2D:A7:C2:09:CB:04:07:26:12:9C:80:57:51:BE:47:98:D2:F0:BE:91:F6"]
+  }
+}]
